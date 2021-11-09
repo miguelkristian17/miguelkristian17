@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://resume.creddle.io/review/dd9qd7y9b7](https://resume.creddle.io/review/dd9qd7y9b7)
 
-- ⚡ Fun fact **I used to swim competitively and my hair was bleached blonde because I was in the water for so long!**
+- ⚡ Fun fact **I used to swim competitively and my hair was bleached blonde because I was in the pool for so long!**
 
 
 <h3 align="left">Languages and Tools:</h3>
