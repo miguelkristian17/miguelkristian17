@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Kristian</h1>
 <h3 align="center">A passionate full-stack web developer based in LA 🏙</h3>
 
-- 🔭 I’m currently working on **Trillo - A Trello Clone!**
+- 🔭 I’m currently working on **Trillo - A Full-Stack Trello Clone!**
 
 - 🌱 I’m currently learning **Go, GraphQL**
 
